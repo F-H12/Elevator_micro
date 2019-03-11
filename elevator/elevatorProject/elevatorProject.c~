@@ -1,0 +1,17 @@
+/*
+ * elevatorProject.c
+ *
+ * Created: 3/11/2019 11:10:23 PM
+ * Author: Hejazi
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}

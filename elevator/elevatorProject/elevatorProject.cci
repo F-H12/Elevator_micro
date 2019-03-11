@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4E6BB968
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:9 "C:\cvavr\inc\mega16a.h"
+NODE:V LEVEL:0 LINE:11 "waitNo -> R4,R5"
+NODE:V LEVEL:0 LINE:12 "MaxWait -> R6,R7"
+NODE:F LEVEL:0 LINE:14 "main(void)"
